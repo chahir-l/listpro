@@ -1,0 +1,35 @@
+.bleu{
+    background-color: blue;
+    width:25px;
+    height:25px;
+}
+
+.vert{
+    background-color: green;
+    width:25px;
+    height:25px;
+}
+
+.rouge{
+    background-color: red;
+    width:25px;
+    height:25px;
+}
+
+.violet{
+    background-color: purple;
+    width:25px;
+    height:25px;
+}
+
+.jaune{
+    background-color: yellow;
+    width:25px;
+    height:25px;
+}
+
+.rose{
+    background-color: pink;
+    width:25px;
+    height:25px;
+}
